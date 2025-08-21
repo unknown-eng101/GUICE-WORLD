@@ -5,6 +5,8 @@ This is a collab between Ryan and Cindy, brother and sister.
 
 We created this based off a stuffed animal that looks fat in appearance, and we named it Guice. 
 
+We did not name it after Guice, used in java coding.
+
 The word "Guice" had a set of evolutions, starting from "Little guys," to "Little Guices," to "Guices."
 
 Feel free to fork this work and create diversities of different Guice cultures :)
